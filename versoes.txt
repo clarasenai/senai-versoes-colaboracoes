@@ -1,1 +1,2 @@
 lembrei do comando git commit
+Bom dia!
